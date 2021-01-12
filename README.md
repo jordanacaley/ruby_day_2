@@ -1,0 +1,1 @@
+In these exercises, I practice working with variables, arrays and loops in Ruby. Check out the last exercise for Mario's pyramid!
